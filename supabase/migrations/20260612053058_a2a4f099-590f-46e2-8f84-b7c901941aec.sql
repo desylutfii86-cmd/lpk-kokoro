@@ -1,0 +1,1 @@
+CREATE POLICY "Anyone can upload siswa-cv photos" ON storage.objects FOR INSERT TO anon, authenticated WITH CHECK (bucket_id = 'media' AND (storage.foldername(name))[1] = 'siswa-cv');

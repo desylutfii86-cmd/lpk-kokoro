@@ -1,0 +1,1 @@
+ALTER TABLE public.artikel ADD COLUMN IF NOT EXISTS gambar_tambahan text[] NOT NULL DEFAULT '{}'::text[];
