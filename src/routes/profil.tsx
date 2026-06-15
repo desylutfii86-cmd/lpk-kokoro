@@ -34,7 +34,7 @@ function ProfilPage() {
         >
          <div className="relative rounded-2xl overflow-hidden shadow-japan border border-border/50 bg-card aspect-video">
             <iframe
-              src="https://www.youtube.com/embed/tJnIm767dm4?si=O34o1zTYGYgTHGqf"
+              src="https://www.youtube.com/embed/tJnIm767dm4?si=1csj008KkAHUBe1N"
               title="Company Profile"
               loading="lazy"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
