@@ -32,9 +32,9 @@ function ProfilPage() {
           viewport={{ once: true }}
           className="mb-16"
         >
-          <div className="relative rounded-2xl overflow-hidden shadow-japan border border-border/50 bg-card aspect-video">
+         <div className="relative rounded-2xl overflow-hidden shadow-japan border border-border/50 bg-card aspect-video">
             <iframe
-              src="https://www.youtube.com/embed/fVoBJKqPoy0"
+              src="https://www.youtube.com/embed/tJnIm767dm4?si=O34o1zTYGYgTHGqf"
               title="Company Profile"
               loading="lazy"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
