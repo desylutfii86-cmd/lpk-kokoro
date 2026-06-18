@@ -9,7 +9,7 @@ const translations = {
       profil: "Profil",
       program: "Program",
       job: "Informasi Job",
-      organisasi: "Struktur Organisasi",
+      organisasi: "Susunan Organisasi",
       galeri: "Galeri",
       kontak: "Kontak",
       artikel: "Artikel",
