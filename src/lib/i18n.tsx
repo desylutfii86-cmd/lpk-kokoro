@@ -87,7 +87,7 @@ const translations = {
       ],
     },
     organization: {
-      title: "Struktur Organisasi",
+      title: "Susunan Organisasi",
       staff: "Staff",
       teachers: "Pengajar",
     },
