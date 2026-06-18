@@ -9,8 +9,8 @@ import { useTranslatedTexts } from "@/lib/useTranslated";
 export const Route = createFileRoute("/organisasi")({
   head: () => ({
     meta: [
-      { title: "Struktur Organisasi — LPK SO KOKORO BREBES" },
-      { name: "description", content: "Struktur organisasi LPK SO KOKORO BREBES" },
+      { title: "Susunan Organisasi — LPK SO KOKORO BREBES" },
+      { name: "description", content: "Susunan Organisasi LPK SO KOKORO BREBES" },
     ],
   }),
   component: OrganisasiPage,
